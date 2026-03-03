@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #eee;
+    width: 822px;
+    margin: 10px auto;
+    position: relative;
+    padding: 10px;
+}
+
+.ali {
+    width: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: 150px 550px 100px;
+
+}
+
+.one {
+    background-color: lightseagreen;
+    color: white;
+    display: grid;
+    place-items: center;
+}
+
+.tow {
+    background-color: salmon;
+    color: white;
+    display: grid;
+    place-items: center;
+}
+
+div .tow {
+    height: 50px;
+
+}
+
+.three {
+    background-color: green;
+    color: white;
+    display: grid;
+    place-items: center;
+}
+
+div .three {
+    height: 50px;
+}
+
+.four {
+    background-color: goldenrod;
+    color: white;
+    display: grid;
+    place-items: center;
+}
+
+.mohammed {
+    width: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: 350px 100px 350px;
+
+}
+
+.five {
+    background-color: cornflowerblue;
+    color: white;
+    display: grid;
+    place-items: center;
+}
+
+div .five {
+    height: 50px;
+}
+
+.seven {
+    background-color: rgb(46, 43, 43);
+    color: white;
+    display: grid;
+    place-items: center;
+}
+
+div .seven {
+    height: 50px;
+    width: 450px;
+}
+
+.six {
+    background-color: blueviolet;
+    color: white;
+    display: grid;
+    place-items: center;
+}
+
+div .six {
+    height: 50px;
+}
+
+.eight {
+    background-color: red;
+    color: white;
+    display: grid;
+    place-items: center;
+}
